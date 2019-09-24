@@ -4,7 +4,7 @@
  * version - 1.0, September 23, 2019
  */
 
-#ifndef SYM_TREE_H
+#define SYM_TREE_H
 
 #define SYM_TREE_H
 
